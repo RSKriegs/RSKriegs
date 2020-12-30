@@ -20,8 +20,6 @@ In a spare time I am a musician - both artist and the producer - playing in a do
   <a href="https://www.linkedin.com/in/rafał-stępień-695562196/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a> &nbsp;
-</p>
-<p>
   <a href="https://www.kaggle.com/kriegsmaschine" rel="nofollow noreferrer">
     <img src="https://mateuszgrzyb.pl/wp-content/uploads/2017/07/kaggle-logo-transparent-300.png" alt="kaggle" width="50" height="25">
   </a> &nbsp;
