@@ -1,4 +1,4 @@
-<img src="https://github.com/RSKriegs/RSKriegs/blob/main/githubson.png">
+<img src="https://github.com/RSKriegs/RSKriegs/blob/main/githubson.png", width="480" height="640">
 
 ### Greetings! 
 My name is Rafał and I am a 20 yo programming enthusiast based in Poland. 
