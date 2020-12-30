@@ -23,6 +23,6 @@ In a spare time I am a musician - both artist and the producer - playing in a do
 </p>
 <p>
   <a href="https://www.kaggle.com/kriegsmaschine" rel="nofollow noreferrer">
-    <img src="https://mateuszgrzyb.pl/wp-content/uploads/2017/07/kaggle-logo-transparent-300.png" alt="kaggle" width="100" height="50">
+    <img src="https://mateuszgrzyb.pl/wp-content/uploads/2017/07/kaggle-logo-transparent-300.png" alt="kaggle" width="50" height="25">
   </a> &nbsp;
 </p>
