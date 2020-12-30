@@ -1,4 +1,4 @@
-[My image]RSKriegs.github.com/RSKriegs/blob/main/githubson.png
+![My image]RSKriegs.github.com/RSKriegs/blob/main/githubson.png
 
 ### Greetings! 
 My name is Rafał and I am a 20 yo programming enthusiast based in Poland. 
