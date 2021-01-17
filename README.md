@@ -11,7 +11,7 @@ All combined, my main field is data science in which I look forward for further 
 
 I have a good knowledge of Python, SQL and R and am also quite proficient in Excel - knowing VBA as well.
 
-My Github contains both academic (Projects-from-studies-) and non-academic projects (My-little-projects) that I have created in a meantime and I hope somebody finds them useful and/or interesting.
+My Github contains both academic and non-academic projects that I have created in a meantime and I hope somebody finds them useful and/or interesting.
 
 In a spare time I am a musician - both artist and the producer - playing in a doom metal band and dark ambient project. 
 
