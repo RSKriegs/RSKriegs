@@ -9,7 +9,7 @@ I am also a student at Warsaw School of Economics and a risk analyst intern in i
 
 All combined, my main field is data science in which I look forward for further development, but I am also interested in other IT branches.
 
-I have a good knowledge of Python, SQL and R and am also quite proficient in Excel - knowing VBA as well.
+My main tools are Python, R, SQL and good old MS Excel.
 
 My Github contains both academic and non-academic projects that I have created in a meantime and I hope somebody finds them useful and/or interesting.
 
