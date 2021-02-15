@@ -7,7 +7,7 @@ My journey within programming began somewhere in 2019 when I have decided to fin
 
 I am also a student at SGH Warsaw School of Economics and a risk analyst intern in investment bank.
 
-All combined, my main field is data science in which I look forward for further development, but I am also interested in other IT branches.
+All combined, my main field is data science & business intelligence in which I look forward for further development, but I am also interested in other IT branches.
 
 My main tools are Python, R and good old Excel.
 
