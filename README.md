@@ -1,19 +1,11 @@
 
 
 ### Greetings! 
-My name is Rafał and I am a 20 yo programming enthusiast based in Poland. 
+My name is Rafał and I am a 20 yo programming enthusiast based in Poland. I study at Warsaw School of Economics and work as risk analyst. In a spare time I am a musician - both artist and the producer.
 
-My journey within programming began somewhere in 2019 when I have decided to finally find out what it really is having borrowed a Python book from my girlfriend's father.
+My journey within programming began somewhere in 2019 when I have decided to finally find out what it really is having borrowed a Python book from my girlfriend's father - since this time Python had to become my programming language of choice. My main field is data science & business intelligence in which I look forward for further development, but I am also interested in other IT branches.
 
-I am also a student at SGH Warsaw School of Economics and a risk analyst intern in investment bank.
-
-All combined, my main field is data science & business intelligence in which I look forward for further development, but I am also interested in other IT branches.
-
-My main tools are Python, R and good old Excel.
-
-My Github contains both academic and non-academic projects that I have created in a meantime and I hope somebody finds them useful and/or interesting.
-
-In a spare time I am a musician - both artist and the producer - playing in a doom metal band and dark ambient project. 
+Repositories on which I worked the most are pinned.
 
 
 <p>
